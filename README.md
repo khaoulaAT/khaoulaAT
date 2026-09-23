@@ -60,8 +60,9 @@ J'aime concevoir et développer des solutions intelligentes en combinant
 `Git` `GitHub` `Docker` `Scrum`
 
 ---
-
-## Contact
+## Merci de me contacter
 
 - LinkedIn : [Khaoula Ait Idder](https://www.linkedin.com/in/khaoula-aitidder)
 - Email : [aitidderkhaoula@gmail.com](mailto:aitidderkhaoula@gmail.com)
+
+Découvrez mes projets ci-dessous !
