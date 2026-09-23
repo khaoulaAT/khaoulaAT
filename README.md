@@ -65,4 +65,4 @@ J'aime concevoir et développer des solutions intelligentes en combinant
 - LinkedIn : [Khaoula Ait Idder](https://www.linkedin.com/in/khaoula-aitidder)
 - Email : [aitidderkhaoula@gmail.com](mailto:aitidderkhaoula@gmail.com)
 
-Découvrez mes projets ci-dessous !
+Découvrez mes projets et réalisations ci-dessous.
