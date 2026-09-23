@@ -1,6 +1,6 @@
 # Bonjour, je suis Khaoula Ait Idder
 
-## Ingénieure en Intelligence Artificielle & Full-Stack Developer
+## Ingénieure en Intelligence Artificielle & Développeuse Full-Stack
 
 Diplômée d'un Master en **Intelligence Artificielle & Informatique Numérique**  
 Passionnée par l'**Intelligence Artificielle** et la **Computer Vision**  
